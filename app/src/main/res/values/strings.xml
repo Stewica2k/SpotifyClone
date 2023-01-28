@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Spotify</string>
+    <string name="notification_channel_name">Music Channel</string>
+    <string name="notification_channel_description">Shows the currently playing music</string>
+    <string name="todo">TODO</string>
+    <string name="song_name">SONG NAME</string>
+    <string name="_00_00">00:00</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="_00_00_">00:00</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="song_name1">SONG NAME</string>
+    <string name="todo6">TODO</string>
+    <string name="_00_00_0">00:00</string>
+    <string name="_00_00_00">00:00</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="todo10">TODO</string>
+    <string name="playlist_title">Playlist Title</string>
+    <string name="_100_songs">100 Songs</string>
+    <string name="title">Title</string>
+</resources>
